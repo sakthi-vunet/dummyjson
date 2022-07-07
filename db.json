@@ -1,50 +1,51 @@
-[
-  {
-    "_id": "62c67c3dccfafaea7ea7a7d9",
-    "name": "Tammie",
-    "type": "Deviltoe",
-    "instances": 5,
-    "node": 4,
-    "nodelist": [
-      "ZAYA",
-      "NETPLAX",
-      "VETRON"
+{"list":[
+      {
+        "_id": "62c67c3dccfafaea7ea7a7d9",
+        "name": "Tammie",
+        "type": "Deviltoe",
+        "instances": 5,
+        "node": 4,
+        "nodelist": [
+          "ZAYA",
+          "NETPLAX",
+          "VETRON"
+        ]
+      },
+      {
+        "_id": "62c67c3dd52a3b8e11b0a0dc",
+        "name": "Jocelyn",
+        "type": "Eargo",
+        "instances": 5,
+        "node": 5,
+        "nodelist": [
+          "TELPOD",
+          "KEEG",
+          "BEZAL"
+        ]
+      },
+      {
+        "_id": "62c67c3d20cc773b42909c92",
+        "name": "Felecia",
+        "type": "Unia",
+        "instances": 3,
+        "node": 1,
+        "nodelist": [
+          "OVIUM",
+          "DYNO",
+          "FUTURIS"
+        ]
+      },
+      {
+        "_id": "62c67c3d52c7e138c8f5c00e",
+        "name": "Eloise",
+        "type": "Maximind",
+        "instances": 1,
+        "node": 2,
+        "nodelist": [
+          "QUAILCOM",
+          "ORONOKO",
+          "RODEMCO"
+        ]
+      }
     ]
-  },
-  {
-    "_id": "62c67c3dd52a3b8e11b0a0dc",
-    "name": "Jocelyn",
-    "type": "Eargo",
-    "instances": 5,
-    "node": 5,
-    "nodelist": [
-      "TELPOD",
-      "KEEG",
-      "BEZAL"
-    ]
-  },
-  {
-    "_id": "62c67c3d20cc773b42909c92",
-    "name": "Felecia",
-    "type": "Unia",
-    "instances": 3,
-    "node": 1,
-    "nodelist": [
-      "OVIUM",
-      "DYNO",
-      "FUTURIS"
-    ]
-  },
-  {
-    "_id": "62c67c3d52c7e138c8f5c00e",
-    "name": "Eloise",
-    "type": "Maximind",
-    "instances": 1,
-    "node": 2,
-    "nodelist": [
-      "QUAILCOM",
-      "ORONOKO",
-      "RODEMCO"
-    ]
-  }
-]
+}
