@@ -1,48 +1,48 @@
-{"list":[
-      {
-        "_id": "62c67c3dccfafaea7ea7a7d9",
-        "name": "Availability",
-        "type": "Free Scale",
-        "instances": 5,
-        "node": 4,
-        "nodelist": [
-          "vunet-3410",
-          "vunet-3411",
-          "vunet-3414"
-        ]
-      },
-      {
-        "_id": "62c67c3dd52a3b8e11b0a0dc",
-        "name": "Elasti Search",
-        "type": "STateful",
-        "instances": 5,
-        "node": 5,
-        "nodelist": [
-         "vunet-3410",
-          "vunet-3411",
-          "vunet-3414"
-        ]
-      },
-      {
-        "_id": "62c67c3d20cc773b42909c92",
-        "name": "Geoserver",
-        "type": "Standalone",
-        "instances": 3,
-        "node": 1,
-        "nodelist": [
-          "vunet-3410",
-         
-        ]
-      },
-      {
-        "_id": "62c67c3d52c7e138c8f5c00e",
-        "name": "GoFlow",
-        "type": "Restricted Scale",
-        "instances": 1,
-        "node": 2,
-        "nodelist": [
-          "vunet-3411"
-        ]
-      }
-    ]
+{
+  "list": [
+    {
+      "_id": "62c67c3dccfafaea7ea7a7d9",
+      "name": "Availability",
+      "type": "Free Scale",
+      "instances": 5,
+      "node": 4,
+      "nodelist": [
+        "vunet-3410",
+        "vunet-3411",
+        "vunet-3414"
+      ]
+    },
+    {
+      "_id": "62c67c3dd52a3b8e11b0a0dc",
+      "name": "Elasti Search",
+      "type": "STateful",
+      "instances": 5,
+      "node": 5,
+      "nodelist": [
+        "vunet-3410",
+        "vunet-3411",
+        "vunet-3414"
+      ]
+    },
+    {
+      "_id": "62c67c3d20cc773b42909c92",
+      "name": "Geoserver",
+      "type": "Standalone",
+      "instances": 3,
+      "node": 1,
+      "nodelist": [
+        "vunet-3410"
+      ]
+    },
+    {
+      "_id": "62c67c3d52c7e138c8f5c00e",
+      "name": "GoFlow",
+      "type": "Restricted Scale",
+      "instances": 1,
+      "node": 2,
+      "nodelist": [
+        "vunet-3411"
+      ]
+    }
+  ]
 }
